@@ -1203,7 +1203,8 @@ a.article-title:hover {
   font-size: 32px;
   content: "\f10d";
   position: absolute;
-  text-align: center;
+  text-align: justify;
+  text-justify: inter-word;
   font-style: normal;
   font-family: 'FontAwesome';
 }
@@ -1217,7 +1218,8 @@ a.article-title:hover {
   padding: 0 0.5em;
 }
 .article-entry .pullquote {
-  text-align: left;
+  text-align: justify;
+  text-justify: inter-word;
   width: 45%;
   margin: 0;
 }
@@ -1235,7 +1237,8 @@ a.article-title:hover {
   font-size: 0.9em;
   margin-top: 0.5em;
   position: relative;
-  text-align: center;
+  text-align: justify;
+  text-justify: inter-word;
 }
 .article-entry .video-container {
   position: relative;
