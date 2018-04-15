@@ -19,31 +19,45 @@
 }
 .widget h1,
 .article-entry h1 {
+  text-align: justify;
+  text-justify: inter-word;
   font-size: 2em;
 }
 .widget h2,
 .article-entry h2 {
+  text-align: justify;
+  text-justify: inter-word;
   font-size: 1.5em;
 }
 .widget h3,
 .article-entry h3 {
+  text-align: justify;
+  text-justify: inter-word;
   font-size: 1.3em;
 }
 .widget h4,
 .article-entry h4 {
+  text-align: justify;
+  text-justify: inter-word;
   font-size: 1.2em;
 }
 .widget h5,
 .article-entry h5 {
+  text-align: justify;
+  text-justify: inter-word;
   font-size: 1em;
 }
 .widget h6,
 .article-entry h6 {
+  text-align: justify;
+  text-justify: inter-word;
   font-size: 1em;
   color: #aaa;
 }
 .widget hr,
 .article-entry hr {
+  text-align: justify;
+  text-justify: inter-word;
   border: 1px dashed #ddd;
 }
 .widget strong,
@@ -64,6 +78,8 @@
   line-height: 0;
   position: relative;
   vertical-align: baseline;
+  text-align: justify;
+  text-justify: inter-word;
 }
 .widget sup,
 .article-entry sup {
@@ -89,6 +105,8 @@
 .article-entry ol,
 .widget dl,
 .article-entry dl {
+  text-align: justify;
+  text-justify: inter-word;
   line-height: 1.6em;
 }
 .widget ul ul,
@@ -107,6 +125,8 @@
 .article-entry ul {
   list-style: disc;
   list-style-position: inside;
+  text-align: justify;
+  text-justify: inter-word;
 }
 .widget ol,
 .article-entry ol {
@@ -189,6 +209,8 @@ body {
   line-height: 1;
   color: #000;
   background: #fff;
+  text-align: justify;
+  text-justify: inter-word;
 }
 ol,
 ul {
@@ -232,6 +254,9 @@ body {
   background: #eaeaea;
   font: 14px "Titillium Web", "Helvetica Neue", Helvetica, Arial, "Microsoft Yahei", sans-serif;
   -webkit-text-size-adjust: 100%;
+  text-align: justify;
+  text-justify: inter-word;
+
 }
 code {
   margin: 0 2px;
@@ -286,6 +311,9 @@ code {
 .main-body {
   margin-top: -60px;
   background-color: #fff;
+  text-align: justify;
+  text-justify: inter-word;
+
 }
 .main-body-inner {
   position: relative;
@@ -296,6 +324,8 @@ code {
   box-shadow: rgba(0,0,0,0.098) 0px 1px 1px 0px;
   padding-left: 340px;
   background: url("images/s-left.png") repeat-y left 0;
+  text-align: justify;
+  text-justify: inter-word;
 }
 .main-body-inner:before,
 .main-body-inner:after {
@@ -323,6 +353,8 @@ code {
   font-weight: 600;
   text-transform: uppercase;
   line-height: 24px;
+  text-align: justify;
+  text-justify: inter-word;
 }
 #main .main-body-header .page-title-link,
 #main .main-body-header i {
